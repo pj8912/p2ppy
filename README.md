@@ -1,6 +1,10 @@
 # p2ppy
 Peer-to-Peer Network in Python
 
+![test](https://user-images.githubusercontent.com/59218902/226540715-30e9dee9-f2c0-4911-a3e6-0f140506c720.png)
+
+
+
 
 ## Boot Node
 A boot node in a peer-to-peer (P2P) network is a node that serves as an initial point of contact for other nodes to join the network.
